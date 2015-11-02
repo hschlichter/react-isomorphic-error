@@ -1,0 +1,22 @@
+{
+  "name": "react-isomorphic-error",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "dependencies": {
+    "babel": "^5.8.23",
+    "body-parser": "~1.13.2",
+    "debug": "~2.2.0",
+    "ejs": "~2.3.3",
+    "express": "~4.13.1",
+    "morgan": "~1.6.1",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^5.3.2"
+  }
+}
